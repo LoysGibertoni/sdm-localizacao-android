@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppGoogleMaps</string>
+    <string name="textViewRodape">IFSP @ 2019/2</string>
+    <string name="buscar">Buscar</string>
+    <string name="avaliacao" formatted="false">Avaliação: %1$.1f</string>
+    <string name="geofence">Geofence</string>
+    <string name="entrou_em">Entrou em %1$s</string>
+    <string name="saiu_de">Saiu de %1$s</string>
+</resources>
